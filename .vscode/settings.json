@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "DPMFoam.C": "cpp",
+        "myDPMFoam.C": "cpp"
+    }
+}

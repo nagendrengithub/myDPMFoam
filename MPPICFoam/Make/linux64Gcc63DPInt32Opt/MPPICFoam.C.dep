@@ -1,0 +1,4 @@
+$(OBJECTS_DIR)/MPPICFoam.C.dep: \
+MPPICFoam.C \
+
+#END
